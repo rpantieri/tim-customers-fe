@@ -1,0 +1,16 @@
+<div class="row h-100 w-100">
+    <div class="col-2 h-100" >
+        <div class="d-flex h-100 w-100 flex-column">
+            <div class="flex-grow-1 m-2">
+                <p-listbox #listBox [options]="customers" [(ngModel)]="selectedCustomer" optionLabel="name" dataKey="id"
+                    (ngModelChange)="onChange()" [style]="{ 'height' : '100%'}"  [listStyle]="{ 'max-height' : '2000px'}" [filter]="true">
+
+                </p-listbox>
+            </div>
+        </div>
+    </div>
+    <div class="col-10" >
+        <div class="float-end"><p-button icon="pi pi-plus" [rounded]="true" severity="secondary" (click)="newButton()"></p-button></div>
+        <router-outlet></router-outlet>
+    </div>
+</div>

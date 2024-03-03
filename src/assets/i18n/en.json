@@ -1,0 +1,44 @@
+{
+  "AUTH": {
+    "EMAIL": "Email",
+    "LOGIN": "Login",
+    "PASSWORD": "Password",
+    "PASSWORD_REPEAT": "Repeat password",
+    "PSW": {
+      "ATLEAST_1LOWER": "At least one lowercase",
+      "ATLEAST_1NUMERIC": "At least one numeric",
+      "ATLEAST_1UPPER": "At least one uppercase",
+      "ENTER_A_PSW": "Enter a password",
+      "MIN_8CHARS": "Minimum 8 characters",
+      "PICK_A_PSW": "Pick a password",
+      "SUGGESTIONS": "Suggestions"
+    },
+    "REGISTER": "Sign-in",
+    "REGISTRATION_CODE": "Registration code",
+    "USERNAME": "Username",
+    "VERIFY_REGISTRATION": "Verify registration"
+  },
+  "CUSTOMER-EDIT-CONTACTS": {
+    "EMAIL": "Email",
+    "MOBILE": "Mobile",
+    "NAME": "Name",
+    "PHONE": "Phone",
+    "ROLE": "Role"
+  },
+  "CUSTOMER-EDIT": {
+    "ADDRESS": "Address",
+    "CONTACTS": "Contacts",
+    "NAME": "Name",
+    "NOTE": "Note",
+    "TAXCODE": "Taxcode",
+    "TITLE": "Customer"
+  },
+  "HEADER": {
+    "CUSTOMERS": "Customers"
+  },
+  "primeng": {
+    "passwordPrompt": "Enter a password",
+    "strong": "Strong",
+    "weak": "Weak"
+  }
+}

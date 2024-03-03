@@ -1,0 +1,44 @@
+{
+  "AUTH": {
+    "EMAIL": "Email",
+    "LOGIN": "Login",
+    "PASSWORD": "Password",
+    "PASSWORD_REPEAT": "Ripeti password",
+    "PSW": {
+      "ATLEAST_1LOWER": "Almeno una minuscola",
+      "ATLEAST_1NUMERIC": "Almeno un numero",
+      "ATLEAST_1UPPER": "Almeno una maiuscola",
+      "ENTER_A_PSW": "Digita una password",
+      "MIN_8CHARS": "Almeno 8 caratteri",
+      "PICK_A_PSW": "Scegli una password",
+      "SUGGESTIONS": "Suggerimenti"
+    },
+    "REGISTER": "Registrazione",
+    "REGISTRATION_CODE": "Codice di registrazione",
+    "USERNAME": "Username",
+    "VERIFY_REGISTRATION": "Verifica registrazione"
+  },
+  "CUSTOMER-EDIT-CONTACTS": {
+    "EMAIL": "Email",
+    "MOBILE": "Cellulare",
+    "NAME": "Nominativo",
+    "PHONE": "Telefono",
+    "ROLE": "Ruolo"
+  },
+  "CUSTOMER-EDIT": {
+    "ADDRESS": "Indirizzo",
+    "CONTACTS": "Contatti",
+    "NAME": "Nome",
+    "NOTE": "Note",
+    "TAXCODE": "Codice Fiscale",
+    "TITLE": "Cliente"
+  },
+  "HEADER": {
+    "CUSTOMERS": "Clienti"
+  },
+  "primeng": {
+    "passwordPrompt": "Inserisci una password",
+    "strong": "Forte",
+    "weak": "Debole"
+  }
+}
